@@ -7,6 +7,7 @@ public class HelloWorld {
     }
 
     public void a() {
+        System.out.println("我是七爷！！！！！");
 
     }
 }
